@@ -26,9 +26,3 @@ Projeto desenvolvido como parte de um desafio da [Rocketseat](https://www.rocket
 
 
 Feito com 💜 por Glauber — LinkedIn
-
-yaml
-Copiar
-Editar
-
----
